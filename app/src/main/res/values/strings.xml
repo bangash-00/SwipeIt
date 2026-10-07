@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeIt</string>
+    <string name="accessibility_desc">Lets Face Gesture Swipe perform swipe gestures on the screen when you turn or tilt your head.</string>
+
+</resources>
